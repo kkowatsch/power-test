@@ -4,7 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [incanter "1.5.7-SNAPSHOT"]
+                 [incanter "1.5.7"]
                  [proto-repl "0.3.1"]]
   :main ^:skip-aot power_test.core
   :plugins [[lein-midje "3.0.0"]]
