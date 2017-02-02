@@ -1,6 +1,6 @@
-(ns power-test.core-test
+(ns power_test.core_test
   (:require [clojure.test :refer :all]
-            [power-test.core :refer :all]))
+            [power_test.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
