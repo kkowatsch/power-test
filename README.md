@@ -1,6 +1,6 @@
 # power-test
 
-Developer test for Powernoodle Inc. Fetches data from https://www.census.gov/population/international/data/idb/region.php?N=%20Results%20&T=13&A=separate&RT=0&Y=2017&R=-1&C=CA and manipulates it in a bar-chart.
+Developer test for Powernoodle Inc. Fetches data from https://www.census.gov/population/international/data/idb/region.php?N=%20Results%20&T=13&A=separate&RT=0&Y=2017&R=-1&C=CA and manipulates it in a bar-chart. Final code is in power-test/powernoodle
 
 ## Usage
 
